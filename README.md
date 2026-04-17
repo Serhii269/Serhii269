@@ -1,7 +1,5 @@
 # Hi there 👋
  
----
- 
 I'm **Serhii**, an 18-year-old developer. I love building things from scratch and creating beautiful, functional web experiences.
  
 ## About Me
@@ -15,11 +13,10 @@ I'm **Serhii**, an 18-year-old developer. I love building things from scratch an
  
 ## Tech Stack
  
-<img src="https://skillicons.dev/icons?i=html,css,scss,javascript,python,figma,git,sql" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,javascript,python,bootstrap,figma,vscode,git,sql" alt="Tech Stack" />
  
 ## Let's Connect
  
 **[→ LinkedIn](https://www.linkedin.com/in/serhii-pidhorodetskyi-692422379/)** • **[→ My Portfolio](https://github.com/Serhii269/dev-portfolio)**
- 
 
----
+ ---
