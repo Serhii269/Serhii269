@@ -4,8 +4,8 @@ I'm **Serhii**, an 18-year-old developer. I love building things from scratch an
  
 ## About Me
  
-🎯 **Learning:** HTML, CSS/SCSS, JavaScript, Python  
-🌍 **Languages:** German (B2), Ukrainian, Russian, English  
+🎯 **Learning:** JavaScript, Python
+🌍 **Languages:** German (B2), English (B1), Ukrainian, Russian
 ♟️ **Hobby:** Playing chess since childhood  
 📚 **Education:** Frontend, Python & SQL courses from **Hillel IT School**  
 🏢 **Next Year:** Apprenticeship (Ausbildung) at **Switch Zürich**  
