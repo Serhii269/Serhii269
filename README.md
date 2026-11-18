@@ -1,22 +1,17 @@
-# Hi there 👋
- 
-I'm **Serhii**, an 18-year-old developer. I love building things from scratch and creating beautiful, functional web experiences.
- 
-## About Me
- 
-🎯 **Learning:** JavaScript, Python  
-🌍 **Languages:** German (B2), English (B1), Ukrainian, Russian  
-♟️ **Hobby:** Playing chess since childhood  
-📚 **Education:** Frontend, Python & SQL courses from **Hillel IT School**  
-🏢 **Next Year:** Apprenticeship (Ausbildung) at **Switch Zürich**  
-💻 **Philosophy:** Build projects from scratch to strengthen skills  
- 
-## Tech Stack
- 
-<img src="https://skillicons.dev/icons?i=html,css,scss,javascript,python,bootstrap,figma,vscode,git,sql" alt="Tech Stack" />
- 
-## Let's Connect
- 
-**[→ LinkedIn](https://www.linkedin.com/in/serhii-pidhorodetskyi-692422379/)** • **[→ My Portfolio](https://github.com/Serhii269/dev-portfolio)**
+### Hi, I'm Serhii
 
- ---
+Developer based in Switzerland, focusing on building functional web applications and software from scratch.
+
+- **Upcoming:** Apprenticeship (Ausbildung) at **Switch Zürich**
+- **Focus:** Java, JavaScript, Python, SQL
+- **Background:** Frontend, Python & SQL at Hillel IT School
+- **Languages:** German (B2), English (B1), Ukrainian, Russian
+- **Interests:** Chess
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql,html,css,scss,figma,vscode,git" alt="Tech Stack" />
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/serhii-pidhorodetskyi-692422379/) • [Portfolio](https://github.com/Serhii269/dev-portfolio)
